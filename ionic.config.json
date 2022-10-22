@@ -1,0 +1,7 @@
+{
+  "name": "bscanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
